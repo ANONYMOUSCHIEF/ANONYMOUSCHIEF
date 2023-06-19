@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Meena</h1>
 <h3 align="center">Frontend Developer || Backend Developer || Full Stack Developer || Competative Programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymouschief&label=Profile%20views&color=0e75b6&style=flat" alt="anonymouschief" /> </p>
-
 - 🌱 I’m currently learning **Next js , Competative programming**
 
 - 📫 How to reach me **meenanitin274@gmail.com**
