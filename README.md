@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Meena</h1>
 <h3 align="center">Frontend Developer || Backend Developer || Full Stack Developer || Competative Programming</h3>
-<div class="tenor-gif-embed" data-postid="19979189" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/habibi-meme-funny-arab-orbis-gif-19979189">
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/habibi-meme-funny-arab-orbis-gif-19979189">
 - 🌱 I’m currently learning **Next js , Competative programming**
 
 - 📫 How to reach me **meenanitin274@gmail.com**
