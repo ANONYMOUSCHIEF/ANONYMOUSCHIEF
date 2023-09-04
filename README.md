@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin Meena</h1>
-<h3 align="center">Frontend Developer || Backend Developer || Full Stack Developer || Competative Programming</h3>
+<h3 align="center">Frontend Developer || Backend Developer || Full Stack Developer || competitive Programming</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-- 🌱 I’m currently learning **Next js , Competative programming**
+- 🌱 I’m currently learning **Next js , competitive programming**
 
 - 📫 How to reach me **meenanitin274@gmail.com**
 
